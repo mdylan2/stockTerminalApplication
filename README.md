@@ -18,7 +18,7 @@ Here's a list of files in the repository:
 In order to start using the terminal application, please follow these steps (you must have Python installed):
 1) Clone the repository
 ```
-git clone 
+git clone https://github.com/mdylan2/stockTerminalApplication.git
 ```
 2) Create a database
 ```
